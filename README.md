@@ -21,7 +21,8 @@
 <li>Add a button to navigate back to movie library in movie player page</li>
 <li>Add a crypto donation section</li>
 
-
+<br>
+<br>
 <strong>To-Do in Back End:</strong>
 <li>Integrate analytics in each page</li>
 <li>track user behaviour 100%</li>
