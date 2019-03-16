@@ -5,13 +5,14 @@
 <ol>Movie Library</ol>
 <ol>Movie Player</ol>
 ========================================
-Functionality added for Movie Library:
-1.Movie Library
-2.Pagination
-3.Navigation (Movie Category)
+<p>Functionality added for Movie Library:</p>
+<ol>Movie Gallery</ol>
+<ol>Pagination</ol>
+<ol>Navigation </ol>
 ========================================
-Functionality added for Movie Player:
-1.AfterGlow Video Player
-2.Movie Card
-3.Scroll Down Animation
+<p>Functionality added for Movie Player:<p>
+
+<ol>AfterGlow Video Player</ol>
+<ol>Movie Card</ol>
+<ol>Scroll Down Animation</ol>
 ========================================
