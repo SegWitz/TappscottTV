@@ -20,6 +20,7 @@
 <strong>To-Do in Front End : </strong>
 <li>Add a button to navigate back to movie library in movie player page</li>
 <li>Add a crypto donation section</li>
+<li>Resolution Switching</li>
 <li>Use CDN</li>
 
 <br>
