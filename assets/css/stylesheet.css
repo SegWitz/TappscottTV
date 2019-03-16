@@ -610,6 +610,8 @@ html, body {
 
 /* ============================================================== */
 /* ============= Search Bar ================== */
+
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 
@@ -4486,5 +4488,8 @@ html, body {
   margin-left: -6px;
 }
 
+/*==========================*/
 
+.link { color: rgb(0, 255, 13); } /* CSS link color (red) */
+.link:hover { color: #FFC300; } /* CSS link hover (green) */
 
