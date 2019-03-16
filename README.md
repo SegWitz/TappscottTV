@@ -1,9 +1,9 @@
 # TappscottTV
 ========================================
-Layers:
-1.Welcome Page 
-2.Movie Library
-3.Movie Player
+<p>Layers:</p>
+<ol>Welcome Page</ol>
+<ol>Movie Library</ol>
+<ol>Movie Player</ol>
 ========================================
 Functionality added for Movie Library:
 1.Movie Library
