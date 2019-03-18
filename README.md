@@ -18,11 +18,11 @@
 <ol>Movie Card</ol>
 <ol>Scroll Down Animation</ol>
 <ol>Header as a button to navigate back to movie library in movie player page</ol>
+<ol>Resolution Switching</ol>
 
 ========================================
 
 <strong>To-Do in Front End : </strong>
-<li>Resolution Switching</li>
 <li>Use CDN</li>
 
 <br>
@@ -31,9 +31,10 @@
 <li>Integrate analytics in each page</li>
 <li>track user behaviour 100%</li>
 <li>integrate crypto miner</li>
+<li>Video source path file encryption</li>
 
 ========================================
-
+<img src="https://zottalabs.com/wp-content/uploads/2019/01/zotta-labs-icon.png" alt="Zotta Labs">
 <h1> Zotta Labs (M) PLT.<h1>
 
 
