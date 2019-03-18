@@ -9,6 +9,8 @@
 <ol>Movie Gallery</ol>
 <ol>Pagination</ol>
 <ol>Navigation </ol>
+<ol>BTC donation plugin</ol>
+
 ========================================
 <h3>Functionality added for Movie Player:</h3>
 
@@ -20,7 +22,6 @@
 ========================================
 
 <strong>To-Do in Front End : </strong>
-<li>Add a crypto donation page</li>
 <li>Resolution Switching</li>
 <li>Use CDN</li>
 
