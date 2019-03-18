@@ -15,7 +15,7 @@
 <ol>AfterGlow Video Player</ol>
 <ol>Movie Card</ol>
 <ol>Scroll Down Animation</ol>
-<ol>Heaser as a button to navigate back to movie library in movie player page</ol>
+<ol>Header as a button to navigate back to movie library in movie player page</ol>
 
 ========================================
 
