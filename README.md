@@ -34,7 +34,8 @@
 <li>Video source path file encryption</li>
 
 ========================================
-<img src="https://zottalabs.com/wp-content/uploads/2019/01/zotta-labs-icon.png" alt="Zotta Labs">
 <h1> Zotta Labs (M) PLT.<h1>
+<img src="https://zottalabs.com/wp-content/uploads/2019/01/zotta-labs-icon.png" alt="Zotta Labs">
+
 
 
