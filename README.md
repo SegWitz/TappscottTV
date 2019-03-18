@@ -15,11 +15,12 @@
 <ol>AfterGlow Video Player</ol>
 <ol>Movie Card</ol>
 <ol>Scroll Down Animation</ol>
+<ol>Heaser as a button to navigate back to movie library in movie player page</ol>
+
 ========================================
 
 <strong>To-Do in Front End : </strong>
-<li>Add a button to navigate back to movie library in movie player page</li>
-<li>Add a crypto donation section</li>
+<li>Add a crypto donation page</li>
 <li>Resolution Switching</li>
 <li>Use CDN</li>
 
